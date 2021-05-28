@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @johnbaimas
-- 👀 I’m interested in digital organizing and related tech
-- 🌱 I’m currently learning HTML, CSS, and a few other things
-- 📫 How to reach me: john@baimas.co
+Interested in digital organizing & related tech. He/him.
 
 <!---
 johnbaimas/johnbaimas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
